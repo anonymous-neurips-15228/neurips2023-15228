@@ -1,5 +1,3 @@
-# neurips2023-15228
-
 # ACAMDA: Adversarial CAusal Modelling for Data Augmentation
 ## Overview
 ## Experiments
