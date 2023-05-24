@@ -9,7 +9,7 @@ with open(os.path.join(here, "README.md"), encoding="utf-8") as f:
   long_description = f.read()
 
 setup(
-    name="acamda", # Replace with your own username
+    name="acamda",
     version="0.0.1",
     description="The acamda is a tool for robust and efficient data augmentation",
     long_description=long_description,
